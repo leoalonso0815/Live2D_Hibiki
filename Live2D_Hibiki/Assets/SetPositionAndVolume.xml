@@ -1,0 +1,14 @@
+<Position>
+  <setPositionX id="0" name="playerPositionX">
+    <valueX>4.2</valueX>
+  </setPositionX>
+  <setPositionY id="1" name="playerPositionY">
+    <valueY>-0.27</valueY>
+  </setPositionY>
+  <setPositionZ id="2" name="playerPositionZ">
+    <valueZ>-1.3</valueZ>
+  </setPositionZ>
+  <setVolume id="3" name="VolumeValue">
+    <Volume>1</Volume>
+  </setVolume>
+</Position>

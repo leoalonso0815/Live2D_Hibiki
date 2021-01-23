@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/live2d Hibiki.unity
+  isLoaded: 1
+  isActive: 1

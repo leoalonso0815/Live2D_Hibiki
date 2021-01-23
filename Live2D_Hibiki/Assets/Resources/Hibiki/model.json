@@ -1,0 +1,17 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"147.moc",
+	"textures":[
+		"textures/0.png",
+		"textures/1.png",
+		"textures/2.png"
+	],
+	"motions":{
+		"":[
+			{"file":"motions/port.mtn"},
+			{"file":"motions/secret.mtn"},
+			{"file":"motions/battle.mtn"},
+			{"file":"motions/loop.mtn"}
+		]
+	}
+}
